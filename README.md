@@ -16,7 +16,7 @@ Sistema inteligente desenvolvido em Python para monitoramento de sistemas energ√
 
 ## Como Executar
 1. Clone o reposit√≥rio:
-   `git clone [LINK_DO_SEU_REPOSITORIO]`
+   `git clone [https://github.com/crfvelloso/GS_SERS/tree/main]`
 2. Acesse a pasta do projeto e execute o script:
    `python main.py`
 
